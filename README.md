@@ -2,11 +2,18 @@
 This is kaggle competation where I have submitted my solution. Accuracy of my model is 92.77% <br>
 
 Prediction Screen Image:-
-![Screenshot (784)](https://user-images.githubusercontent.com/68246393/158054937-bd28353e-74e8-46df-9124-5ee08019eb69.png)
-
+<div align="center">
+    <a href="./">
+        <img src="https://user-images.githubusercontent.com/68246393/158054937-bd28353e-74e8-46df-9124-5ee08019eb69.png" width="59%"/>
+    </a>
+</div> <br>
 
 Kaggle Score:-
-![Screenshot (783)](https://user-images.githubusercontent.com/68246393/158054843-9a0c92d6-0ff6-49c2-a394-c7953cc68260.png)
+<div align="center">
+    <a href="./">
+        <img src="https://user-images.githubusercontent.com/68246393/158054843-9a0c92d6-0ff6-49c2-a394-c7953cc68260.png" width="59%"/>
+    </a>
+</div> <br>
 
 This code demonstrates how to use the Imagenet Inception_v3 model to train a convolutional neural network (CNN) for image classification. The code utilizes the Tensorflow library and its keras module to import the Inception_v3 model, load the dataset, and train the CNN model.
 
